@@ -9,13 +9,12 @@ import { getAuth, GoogleAuthProvider, GithubAuthProvider } from "firebase/auth";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: "",
-  measurementId: "",
+  apiKey: "AIzaSyCK-oCiyoYxr0Il_pYKdUTcGBwpAA3h7DE",
+  authDomain: "mvi1-d45cc.firebaseapp.com",
+  projectId: "mvi1-d45cc",
+  storageBucket: "mvi1-d45cc.firebasestorage.app",
+  messagingSenderId: "1052248458113",
+  appId: "1:1052248458113:web:451c4c4f4894c9f5b69e80"
 };
 
 // Initialize Firebase
